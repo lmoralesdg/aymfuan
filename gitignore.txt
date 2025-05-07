@@ -1,0 +1,68 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos y carpetas de editores
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+.vs/
+.project
+.settings/
+.classpath
+
+# Directorios de logs y temporales
+logs/
+tmp/
+temp/
+*.log
+
+# Archivos de dependencias
+node_modules/
+package-lock.json
+yarn.lock
+.yarn-integrity
+.npm
+
+# Archivos de construcción
+dist/
+build/
+out/
+
+# Directorios de caché
+.cache/
+.sass-cache/
+.eslintcache
+.npm
+
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de respaldo
+*.bak
+*.backup
+*~
+
+# Otros archivos específicos
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Archivos grandes
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tgz
+*.tar
